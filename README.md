@@ -89,4 +89,4 @@ APOLLO_ACTOR_ID=code_crafter/apollo-io-scraper
 3. **Use:** Submit Apollo URLs and get leads automatically
 4. **Scale:** Handle thousands of leads without any infrastructure!
 
-**No servers, no monitoring, just results!** 🚀 
+**No servers, no monitoring, just results!
